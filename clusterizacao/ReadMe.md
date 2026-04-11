@@ -104,7 +104,7 @@ Pode ser **Aglomerativa (Bottom-up)**, onde cada dado começa como um cluster e 
 
 > **Visualização:** O corte no dendrograma define o número final de clusters. Linhas verticais longas indicam grupos bem definidos/isolados.
 
-[📂 Ver Prática no Notebook](./hierarchical.ipynb)
+[📂 Ver Prática no Notebook](./hierarchical/hierarquicos.ipynb)
 
 ---
 
@@ -121,7 +121,7 @@ Assume que os dados são gerados por uma mistura de distribuições Gaussianas (
     * `spherical`: Esferas (comporta-se como K-Means).
 * **Vantagem:** Lida bem com clusters sobrepostos.
 
-[📂 Ver Prática no Notebook](./gmm.ipynb)
+[📂 Ver Prática no Notebook](./GMM/GMM.ipynb)
 
 ---
 
